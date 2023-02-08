@@ -49,7 +49,7 @@ spec:
             {{- toYaml .Values.resources | nindent 12 }}
           env:
             - name: TEST
-              value: "<path:secret/data/sample-secret#first-secret>"
+              value: "<path:kc-development-vaut#stmp-uri>"
       {{- with .Values.nodeSelector }}
       nodeSelector:
         {{- toYaml . | nindent 8 }}
