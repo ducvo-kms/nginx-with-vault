@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd2f9db0-51dc-4264-af72-cbcbbc8412d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/secrets.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/templates/secrets.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
