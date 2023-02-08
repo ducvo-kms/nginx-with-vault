@@ -4,6 +4,10 @@
 
 replicaCount: 1
 custom: "ABC"
+
+kratos:
+  database:
+    databaseSecretName: heo
 image:
   repository: nginx
   pullPolicy: IfNotPresent
